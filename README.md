@@ -56,3 +56,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Credit:
+based on this blog post: https://dev.to/oyedeletemitope/login-authentication-with-react-and-fastapi-397b
